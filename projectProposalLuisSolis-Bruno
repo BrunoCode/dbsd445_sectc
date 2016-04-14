@@ -10,9 +10,20 @@
     This system's main audience is sellers and buyers. Here is
     the function a buyer must do:
 
-    Search and Buy/Order Items
+    Search
     ---------------
-    The user should be able to search for items by category.
+    The user should be able to search for items by category. They
+    should be able to apply filters like price, relevance, rating,
+    seller.
+    
+    
+    Buy/Order Items
+    ---------------
+    The user should be able to buy items using the account 
+    information they already have. The user should be
+    able to verify information like taxes, readytime,
+    
+    
     Put items in shopping cart
     --------------------------
     A shopper should be able to look for items and put them
