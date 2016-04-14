@@ -1,0 +1,99 @@
+1. The description of the database application.
+    
+    E-Commerce Database System
+    -----------------------------
+    I will make an e-commerce database. 
+    
+    Functional Requirements
+    -----------------------
+    This system's main audience is sellers and buyers. Here is
+    the function a buyer must do:
+
+    Buy/Order items
+    ---------------
+
+    Put items in shopping cart
+    --------------------------
+
+    Register for an account
+    ------------------------
+    
+    Update an account
+    -----------------
+    
+    Consumer login
+    --------------
+    
+    Search Items
+    --------------
+    
+    Manage Credit Cards
+    -------------------
+    
+    Cancel an order
+    --------------
+    
+    Rate a product they bought
+    --------------------------
+    
+    Check order history
+    -------------------      
+    
+    Here is the function a seller must do:
+    
+    Create an  account
+    ------------------
+    
+    Update account
+    -------------- 
+    
+    Login
+    -----
+
+    Add Items to your shop
+    ----------------------
+    
+    Update Items in your shop
+    -------------------------
+    
+    Delete Items in your shop
+    -------------------------
+    
+    Check inventory
+    ---------------
+    
+    Confirm orders
+    --------------
+
+    Calculate sales
+    ---------------
+    
+    Cancel a customers order
+    ------------------------
+    
+    All the capabilites of a consumer
+    ---------------------------------
+
+
+    
+
+    
+
+2. Functionalities you must implement (at least 3 substantially different ones)
+
+3. Functionalities/Artifacts for extra credit (web-based, trigger, stored procedure, other functionalities).
+
+4. You must explicitly specify all the attributes that your application will contain
+
+Final project grading policy:
+
+1. Project proposal : 2%
+
+2. Intermediate submission with design : 6%
+
+3. Final submission (code both for front and backend, readme and other documentation, test cases) : 14%
+
+ 
+ Please upload a single PDF file.
+
+Thanks
