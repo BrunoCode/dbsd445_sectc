@@ -14,14 +14,15 @@
     ---------------
     The user should be able to search for items by category. They
     should be able to apply filters like price, relevance, rating,
-    seller.
+    seller, proximity.
     
     
     Buy/Order Items
     ---------------
     The user should be able to buy items using the account 
     information they already have. The user should be
-    able to verify information like taxes, readytime,
+    able to verify information like taxes, expected ready
+    time.
     
     
     Put items in shopping cart
@@ -33,34 +34,55 @@
     
     Register for an account
     ------------------------
+    Register for a consumer account. Here the consumer 
+    will be able to input their billing and shipping
+    information.
     
-    Update an account
+    Update their account
     -----------------
+    Update billing and shipping information.
+    
     
     Consumer login
     --------------
+    A portal for the consumer to login using either their 
+    email or social media account. 
     
-    Search Items
-    --------------
     
     Manage Credit Cards
     -------------------
+    Remove and add credit cards.
     
-    Cancel an order
+    Cancel an Order
     --------------
+    If an order can be canceled then the user will be able
+    to cancel it. Otherwise they will not be able to
+    cancel the order.
     
-    Rate a product they bought
-    --------------------------
+    Comment and rate the product
+    ----------------------
+    The user should be able to comment on the product about their 
+    experience with the product and rate it.
+    
+    Rate the seller
+    ---------------
+    The consumer should be able to give the seller a rating with
+    an explanation.
     
     Check order history
-    -------------------      
+    -------------------  
+    Check all your previous orders that have been fullfilled.
+    Check the orders that are currently in progress. See all
+    order details including confirmation codes.
+    
      ----------------------------------------
     | Here are the functions a seller must do: |
      ----------------------------------------
     
     Create an  account
     ------------------
-    
+    A seller must be able to set up a seller account to sell
+    items.
     Update account
     -------------- 
     
@@ -87,6 +109,11 @@
     
     Cancel a customers order
     ------------------------
+    
+    Refund a customer
+    -----------------
+    A seller should be able to refund a customer for a product
+    they bought that did not satisfy the customer.
     
     All the capabilites of a consumer
     ---------------------------------
