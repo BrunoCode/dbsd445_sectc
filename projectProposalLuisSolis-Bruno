@@ -82,21 +82,25 @@
     Create an  account
     ------------------
     A seller must be able to set up a seller account to sell
-    items.
+    items. They should fill in details about their store.
+    They should enter their bank account to get paid.
+    
     Update account
-    -------------- 
+    --------------
+    Update billing all profile details.
     
     Login
     -----
+    A seller should be able to login to their seller account 
+    seperately.
 
-    Add Items to your shop
+    Add/update/delete Items to your shop
     ----------------------
-    
-    Update Items in your shop
-    -------------------------
-    
-    Delete Items in your shop
-    -------------------------
+    Add items to your inventory. Pops up a form to enter
+    product name, description, price, specifications,
+    quantity. The seller should update all details about their
+    product including marking it out of stock. If needed the
+    the seller can delete an item.
     
     Check inventory
     ---------------
