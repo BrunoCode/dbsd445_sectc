@@ -7,11 +7,12 @@
     
     Functional Requirements
     -----------------------
-    This system's main audience is sellers and buyers. Here is
-    the function a buyer must do:
+    This system's main audience is sellers and buyers.
+    A seller has all the functionalities of a buyer. Here are
+    the functions a buyer must do:
 
     Search
-    ---------------
+    -------
     The user should be able to search for items by category. They
     should be able to apply filters like price, relevance, rating,
     seller, proximity.
@@ -104,23 +105,30 @@
     
     Check inventory
     ---------------
+    The seller should be able to check the over all health of 
+    their inventory.
     
     Confirm orders/ Update State of Order
-    --------------
+    -------------------------------------
+    The seller should be able to change the order's state
+    so that the consumer can see the progress of that order.
 
     Calculate sales
     ---------------
+    The seller should be able to run some analytics on all the
+    sales that they have made. (Total, Median, Average Sales): 
+    by day, week, month, year, and life. 
+    
     
     Cancel a customers order
     ------------------------
+    If needed they should be able to cancel a customer's order
+    and give a small description of it was canceled.
     
     Refund a customer
     -----------------
     A seller should be able to refund a customer for a product
     they bought that did not satisfy the customer.
-    
-    All the capabilites of a consumer
-    ---------------------------------
     
     Communicate Directly with a customer
     ------------------------------------
@@ -130,8 +138,10 @@
     a message.
     
     
+Tables:
 
     
+
 
 2. Functionalities you must implement (at least 3 substantially different ones)
 
